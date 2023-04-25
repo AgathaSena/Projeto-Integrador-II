@@ -7,16 +7,17 @@ Este repositório se refere a documentação do projeto integrador II.
   title Cronograma de atividades do projeto
   dateFormat  YYYY-MM-DD
   section Documentação
-  Pré-projeto     :a1, 2022-10-10, 10d
-  Escrita da parte teórica  :a2, 2022-11-01, 10d
+  Pré-projeto     :a1, 2023-03-30, 14d
+  Estudo ativo (IoT)   :
+  Criação de diagramas     :a2,  2023-04-25, 15d
   section Prototipação
-  Criação de diagramas     :       c2,  2022-11-20, 30d
+  Criação do protótipo mobile (Figma) :c2
   Criação do protótipo - Front/Back-end      :c3,     after c2, 20d
   section Defesa
   Preparação dos slides :p1, after c3, 10d
-  Criação do MVP:p2, after c3, 14d
+  :p2, after c3, 14d
   Ensaio da apresentação :p3, after p2, 10d
-  Apresentação e entrega  :milestone, 2023-02-01, 5d
+  Apresentação e entrega  :milestone, 2023-07-31, 0d
   ``` 
 
 - Pré projeto: 30/03 até 14/04
