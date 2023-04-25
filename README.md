@@ -19,6 +19,23 @@ Este repositório se refere a documentação do projeto integrador II.
   Ensaio da apresentação :p3, after p2, 10d
   Apresentação e entrega  :milestone, 2023-07-31, 0d
   ``` 
+  
+    ```mermaid
+    gantt
+    title Cronograma de atividades do projeto
+    dateFormat  YYYY-MM-DD
+    section Documentação
+    Pré-projeto     :a1,  2023-03-30, 30d
+    Estudo ativo (IoT)  :a2, 2023-05-01, 30d
+    section Prototipação
+    Criação de diagramas     :       c2,  2023-04-25, 15d
+    Criação do protótipo mobile (Figma)      :c3,    2023-05-10, 15d
+    section Defesa
+    Preparação dos slides :p1, after c3, 10d
+    Criação do MVP:p2, after c3, 14d
+    Ensaio da apresentação :p3, after p2, 10d
+    Apresentação e entrega  :milestone, 2023-02-01, 5d
+``` 
 
 - Pré projeto: 30/03 até 14/04
 - Criação de diagramas - 25/04 até 10/05
