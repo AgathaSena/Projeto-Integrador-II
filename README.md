@@ -29,7 +29,10 @@ Este repositório se refere a documentação do projeto integrador II.
 - Entrega do trabalho - 31/07
 
 # Disciplinas integradas
-## Internet das Coisas: 
+## Internet das Coisas 
+
 Conhecimento sobre arduino, sensores, microcontroladores, conectividade e segurança;
-## Desenvolvimento Mobile: 
+
+## Desenvolvimento Mobile
+
 Plataformas móveis, UX/UI, Frameworks, conhecimento na linguagem de programação específica para esse tipo de desenvolvimento
