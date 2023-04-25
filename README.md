@@ -27,3 +27,7 @@ Este repositório se refere a documentação do projeto integrador II.
 - Preparação dos slides para apresentação - 01/07 até 20/07
 - Ensaio da apresentação - 24/07 até 25/07
 - Entrega do trabalho - 31/07
+
+# Disciplinas integradas
+## Internet das Coisas: Conhecimento sobre arduino, sensores, microcontroladores, conectividade e segurança;
+## Desenvolvimento Mobile: Plataformas móveis, UX/UI, Frameworks, conhecimento na linguagem de programação específica para esse tipo de desenvolvimento
