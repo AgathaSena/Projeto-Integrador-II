@@ -17,7 +17,7 @@ Este repositório se refere a documentação do projeto integrador II.
     section Defesa
     Preparação dos slides :p1, after c3, 19d
     Ensaio da apresentação :p2, after p1, 01d
-    Apresentação e entrega  :milestone, 2023-07-27, 00d
+    Apresentação e entrega  :p3, after p2, 07d
 ``` 
 
 # Detalhamento dos grupos de atividades
