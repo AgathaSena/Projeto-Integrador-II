@@ -9,13 +9,13 @@ Este repositório se refere a documentação do projeto integrador II.
     dateFormat  YYYY-MM-DD
     section Documentação
     Pré-projeto     :a1,  2023-03-30, 15d
-    Estudo ativo (IoT)  :a2, 2023-04-16, 34d
-    Criação de diagramas     :       c1,  2023-04-23, 21d
+    Estudo ativo (IoT)   :a2, 2023-04-16, 34d
+    Criação de diagramas     :c3,  2023-04-23, 21d
     section Prototipação
-    Protótipo mobile (Figma)      :c2   2023-05-10, 15d
-    Protótipo virtual (Tinkercad)      :c3,    2023-06-01, 30d
+    Protótipo mobile(Figma)      :c1,   2023-05-10, 15d
+    Protótipo virtual(Tinkercad)      :c2,    2023-06-01, 30d
     section Defesa
-    Preparação dos slides :p1, after c3, 19d
+    Preparação dos slides :p1, after c2, 19d
     Ensaio da apresentação :p2, after p1, 01d
     Apresentação e entrega  :p3, after p2, 07d
 ``` 
