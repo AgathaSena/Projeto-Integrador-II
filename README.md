@@ -13,7 +13,7 @@ Este repositório se refere a documentação do projeto integrador II.
     Criação de diagramas     :c3,  2023-04-23, 21d
     section Prototipação
     Protótipo mobile(Figma)      :c1, after a2, 21d
-    Protótipo virtual(Tinkercad)      :c2,  2023-06-08, 27d
+    Protótipo virtual(Tinkercad)      :c2,  2023-06-04, 20d
     section Defesa
     Preparação dos slides :p1, after c2, 19d
     Ensaio da apresentação :p2, after p1, 01d
