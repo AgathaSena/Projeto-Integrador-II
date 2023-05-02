@@ -37,8 +37,8 @@ Este repositório se refere a documentação do projeto integrador II.
    - Entrega do trabalho - Compilação e entrega de todos os materiais desenvolvidos.
 
 # Disciplinas integradas
-**Internet das Coisas** 
+**Internet das Coisas:** 
 A disciplina de IoT trará conhecimentos específicos sobre comunicação e conexão de dispositivos à Internet. Assim como também permitirá conhecer mais sobre o controle e monitoramento de forma remota, coleta e processamento dos dados de sensores, usabilidade de protocolos de comunicação IoT e aplicação de segurança.
 
-**Desenvolvimento Mobile**
+**Desenvolvimento Mobile:**
  A disciplina de desenvolvimento mobile permitirá adquirir conhecimentos específicos sobre como criar aplicativos para dispositivos móveis, como integrar aplicativos com dispositivos IoT, como criar interfaces de usuário amigáveis e responsivas, além de fornecer conhecimento sobre as linaguagens de desenvolvimento mais adequadas.
