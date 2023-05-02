@@ -12,8 +12,8 @@ Este repositório se refere a documentação do projeto integrador II.
     Estudo ativo (IoT)  :a2, 2023-04-16, 34d
     Criação de diagramas     :       c1,  2023-04-23, 21d
     section Prototipação
-    Criação do protótipo mobile (Figma)      :c2,    2023-05-10, 15d
-    Criação do protótipo virtual (Tinkercad)      :c3,    2023-06-01, 30d
+    Protótipo mobile (Figma)      :c2, after a2,   2023-05-10, 15d
+    Protótipo virtual (Tinkercad)      :c3,    2023-06-01, 30d
     section Defesa
     Preparação dos slides :p1, after c3, 19d
     Ensaio da apresentação :p2, after p1, 01d
