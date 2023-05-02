@@ -1,11 +1,13 @@
 # Pet Feeder - Projeto Integrador II
 Este repositório se refere a documentação do projeto integrador II. 
 
-ganttConfig:
-    theme: forest
+
 
  
  ```mermaid
+ ganttConfig:
+    theme: forest
+    
     gantt
     title Cronograma de atividades do projeto
     dateFormat  YYYY-MM-DD
