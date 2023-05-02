@@ -14,7 +14,7 @@ Este repositório se refere a documentação do projeto integrador II.
     Protótipo virtual(Tinkercad)      :c2,  2023-06-04, 30d
     section Apresentação
     Preparação dos slides :p1, 2023-07-04, 18d
-    Ensaio Final :p2, after p1, 01d
+    Ensaio :p2, after p1, 01d
     Apresentação/entrega  :p3, after p2, 07d
 ``` 
 
