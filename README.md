@@ -10,7 +10,7 @@ Este repositório se refere a documentação do projeto integrador II.
     section Documentação
     Pré-projeto     :a1,  2023-03-30, 15d
     Estudo ativo (IoT)  :a2, 2023-04-16, 34d
-    Criação de diagramas     :       c1,  2023-04-23, 23d
+    Criação de diagramas     :       c1,  2023-04-23, 21d
     section Prototipação
     Criação do protótipo mobile (Figma)      :c2,    2023-05-10, 15d
     Criação do protótipo virtual (Tinkercad)      :c3,    2023-06-01, 30d
