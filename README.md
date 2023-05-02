@@ -1,6 +1,8 @@
 # Pet Feeder - Projeto Integrador II
 Este repositório se refere a documentação do projeto integrador II. 
 
+ganttConfig:
+    theme: forest
 
  
  ```mermaid
