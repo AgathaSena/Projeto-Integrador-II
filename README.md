@@ -2,8 +2,6 @@
 Este repositório se refere a documentação do projeto integrador II. 
  
  ```mermaid
- ganttConfig:
-    theme: forest
     gantt
     title Cronograma de atividades do projeto
     dateFormat  YYYY-MM-DD
@@ -22,15 +20,17 @@ Este repositório se refere a documentação do projeto integrador II.
 
 # Detalhamento dos grupos de atividades
 
-- Pré projeto: Brainstorming e apresentação dos slides da ideia inicial do projeto, que foi realizada em sala no dia 14/04;
-- Criação de diagramas - Casos de uso e de componentes;
-- Estudo ativo (IoT) - Entender o funcionamento dos possíveis sensores utilizados, entender como funcionaria a implementação dos mesmos, estudar
-os cenários de utilização. 01/05 até 05/06
-- Criação do protótipo mobile (Figma) - Desenvolvimento das telas com base nos cenários estudados. 10/05 até 22/05
-- Criação do protótipo virtual (Tinkercad) - Desenvolvimento do projeto físico. 01/06 até 01/07
-- Preparação dos slides para apresentação - Criação dos slides contendo o conteúdo desenvolvido 01/07 até 20/07
-- Ensaio da apresentação - Ensaio preparatório para feedbacks finais 20/07
-- Entrega do trabalho - Compilação e entrega de todos os materiais desenvolvidos 27/07
+- **Seção da Documentação**: Fase destinada a elaboração da documentação refente a criação da idéia, funcionalidades, atividades e especificações associadas a seu desenvolvimento.
+ - Pré projeto: Brainstorming e apresentação dos slides da ideia inicial do projeto;
+ - Criação de diagramas - Casos de uso e de componentes;
+ - Estudo ativo (IoT) - Entender o funcionamento dos possíveis sensores utilizados, entender como funcionaria a implementação dos mesmos, estudar os cenários de utilização.
+-**Seção de Prototipação**: Fase destinada a criação do um modelo virtual e mobile com o intuito de permitir a realização de testes e viabilidade da idéia.
+ - Criação do protótipo mobile (Figma) - Desenvolvimento das telas com base nos cenários estudados;
+ - Criação do protótipo virtual (Tinkercad) - Desenvolvimento do projeto físico;
+-**Seção de Apresentação**: Fase final, destinada a mostrar o resultado do projeto juntamente com suas funcionalidaes e benefícios.
+ - Preparação dos slides para apresentação - Criação dos slides contendo o conteúdo desenvolvido;
+ - Ensaio da apresentação - Ensaio preparatório para feedbacks finais;
+ - Entrega do trabalho - Compilação e entrega de todos os materiais desenvolvidos.
 
 # Disciplinas integradas
 ## Internet das Coisas 
