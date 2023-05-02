@@ -21,16 +21,16 @@ Este repositório se refere a documentação do projeto integrador II.
 # Detalhamento dos grupos de atividades
 
 - **Seção da Documentação**: Fase destinada a elaboração da documentação refente a criação da idéia, funcionalidades, atividades e especificações associadas a seu desenvolvimento.
-- 
+
    - Pré projeto: Brainstorming e apresentação dos slides da ideia inicial do projeto;
    - Criação de diagramas - Casos de uso e de componentes;
    - Estudo ativo (IoT) - Entender o funcionamento dos possíveis sensores utilizados, entender como funcionaria a implementação dos mesmos, estudar os cenários de utilização.
-   - 
--**Seção de Prototipação**: Fase destinada a criação do um modelo virtual e mobile com o intuito de permitir a realização de testes e viabilidade da idéia.
+
+- **Seção de Prototipação**: Fase destinada a criação do um modelo virtual e mobile com o intuito de permitir a realização de testes e viabilidade da idéia.
 
    - Criação do protótipo mobile (Figma) - Desenvolvimento das telas com base nos cenários estudados;
    - Criação do protótipo virtual (Tinkercad) - Desenvolvimento do projeto físico;
--**Seção de Apresentação**: Fase final, destinada a mostrar o resultado do projeto juntamente com suas funcionalidaes e benefícios.
+- **Seção de Apresentação**: Fase final, destinada a mostrar o resultado do projeto juntamente com suas funcionalidaes e benefícios.
 
    - Preparação dos slides para apresentação - Criação dos slides contendo o conteúdo desenvolvido;
    - Ensaio da apresentação - Ensaio preparatório para feedbacks finais;
