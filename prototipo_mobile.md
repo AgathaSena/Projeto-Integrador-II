@@ -1,3 +1,13 @@
+# Diagrama de Componentes 
+Segue abaixo o Diagrama de Componentes com algumas observações
+![diagrama de componentes](https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/4e431264-4c52-4def-9dbf-0b5530110f9b)
+São três componentes principais: 
+- O aplicativo móvel: O aplicativo móvel se comunica com o servidor de backend para enviar comandos de alimentação e receber informações sobre os animais de estimação.
+- O servidor de backend 
+- O alimentador automático: O alimentador automático, por sua vez, recebe os comandos do servidor de backend e executa a alimentação programada. Além disso, o alimentador automático possui uma câmera embutida para monitoramento dos animais de estimação e um áudio embutido para possíveis interações com eles.
+
+
+
 # Tela inicial
 Essa é a tela inicial, quando entramos no aplicativo pela primeira vez. Aqui é solicitado algumas opções para efetuar o cadastro.
 ![tela-inicial](https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/654e6c76-67c9-476b-8160-7b9a339945ad)
@@ -23,6 +33,10 @@ configurações.
 Nesta tela, podemos criar uma rotina de forma personalizada, de acordo com o seu pet.
 ![agendar-rotinas](https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/fe32dba8-a218-4a9e-a45e-d531b965155f)
 
+# Registro Comportamental 
+Nesta rela, temos o registro do seu pet, de acordo com o mês.
+![registro-maio](https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/0ef32672-fa22-4396-91e2-a63147b68816)
+![registro-fevereiro](https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/145e8f12-bc5c-443e-af8e-78d97305fc93)
 
 # Notificações
 Notificações (em tempo real) do seu pet, o que anda fazendo, se está comendo ou não, e se está faltando comida e/ou água.
