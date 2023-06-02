@@ -2,7 +2,7 @@
 
 Segue abaixo a representação do Diagrama de Componentes:
 
-![diagrama de componentes](https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/4e431264-4c52-4def-9dbf-0b5530110f9b)
+<img width="611" alt="Diagrama de Componentes" src="https://github.com/AgathaSena/Projeto-Integrador-II/assets/79552519/bb9d8fe0-2eb8-4683-aae5-ea441e653f3a">
 
 O diagrama é composto por três componentes principais: 
 
@@ -33,7 +33,7 @@ Após o cadastro ter sido concluído, será liberado para o usuário a tela de l
 # Menu
 
 O menu apresenta de forma direta e visual todas as opções principais que podem ser acessadas pelo usuário. Entre elas estão: agendar rotinas, registro comportamental, notificações, acessar câmera, histórico e configurações.
-- Agendar rotinas: Permiti que o usuário crie rotinas de forma personalizada de acordo coma as necessidades dele e do seu pet.
+- Agendar rotinas: Permitir que o usuário crie rotinas de forma personalizada de acordo coma as necessidades dele e do seu pet.
 - Registro comportamental: Apresenta um registro compilado dos dados coletados ao longos de um determinado período referente ao comoprtamento do pet.
 - Notificações: Fornecem um resumo rápido das ações ocorridas em tempo real.
 - Acessar câmera: Fornece acesso a câmera presente no alimentador para visualização em tempo real.
